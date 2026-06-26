@@ -31,7 +31,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/motiram-malve-869a0a379/" target="_blank">
+  <a href="www.linkedin.com/in/motiram-malave-869a0a379" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/motiram__5249" target="_blank">
