@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linktr.ee/simplified_learner">
+<a href="https://motirammalave.github.io/Portfolio-Website/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
