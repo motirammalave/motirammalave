@@ -67,7 +67,6 @@
 | 🏫 Campus Navigation System | Dynamic campus navigation web application |
 | 🌐 Personal Portfolio | Responsive Portfolio Website |
 | 📚 Student Management System | CRUD Application |
-| 🛒 E-Commerce Website | Shopping Website using HTML CSS JS |
 
 ---
 
